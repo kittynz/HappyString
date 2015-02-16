@@ -9,3 +9,4 @@ D:\Projects\GitHub\HappyString\HappyString\bin\Debug\HappyString.pdb
 D:\Projects\GitHub\HappyString\HappyString\obj\Debug\HappyString.csprojResolveAssemblyReference.cache
 D:\Projects\GitHub\HappyString\HappyString\obj\Debug\HappyString.dll
 D:\Projects\GitHub\HappyString\HappyString\obj\Debug\HappyString.pdb
+D:\Projects\GitHub\HappyString\HappyString\bin\Debug\HappyString.nuspec
